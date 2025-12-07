@@ -1,5 +1,5 @@
 # Site pour m'aider à devenir uhq
-C'est mon premier site crée sur GitHub, j'espère qu'il vous plaira ! $_$
+C'est mon premier site crée sur GitHub, j'espère qu'il vous plaira ! 
 
 
 
