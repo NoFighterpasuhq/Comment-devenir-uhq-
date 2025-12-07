@@ -17,8 +17,8 @@ Ce site comme vous l'avez compris, sert à me rendre uhq. Donc j'attends de vous
 2.  Ouvrez 'index.html' dans votre navigateur.
 ## Mes réseaux →→→
 1.Discord: @melljnd
-2.X (Twitter): @nofighter911
-3.Tiktok: @notafighter911
-4.Snapchat: @nofighter911
+2. X (Twitter): @nofighter911
+3. Tiktok: @notafighter911
+4. Snapchat: @nofighter911
 
 (Je sais ils ont quasi tous le meme nom)
