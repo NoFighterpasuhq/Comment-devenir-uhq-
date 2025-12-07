@@ -16,9 +16,9 @@ Ce site comme vous l'avez compris, sert à me rendre uhq. Donc j'attends de vous
 1. Clonez le repo : 'git clone https://github
 2.  Ouvrez 'index.html' dans votre navigateur.
 ## Mes réseaux →→→
-Discord: @melljnd
-X (Twitter): @nofighter911
-Tiktok: @notafighter911
-Snapchat: @nofighter911
+1.Discord: @melljnd
+2.X (Twitter): @nofighter911
+3.Tiktok: @notafighter911
+4.Snapchat: @nofighter911
 
 (Je sais ils ont quasi tous le meme nom)
